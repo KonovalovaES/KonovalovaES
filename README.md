@@ -1,16 +1,45 @@
-### Hi there 👋
+<h2 align="center"> ⭐️ Привет! Я — Катя, Fullstack-разработчик ⭐️ </h2>
 
-<!--
-**KonovalovaES/KonovalovaES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3 align="center">💻 Стек:</h3>
+  <h4 align="center">Backend</h4>
+  <p align="center" dir="auto"><a name="user-content-learning-now"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145">
+  <img src="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" alt="JavaScript logo" title="JavaScript" height="25" data-canonical-src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d7acbbe6bd9702a2a1507f74de23919e5c1a5f9373c7b7cb94fb4074f42d1a9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333"><img src="https://camo.githubusercontent.com/d7acbbe6bd9702a2a1507f74de23919e5c1a5f9373c7b7cb94fb4074f42d1a9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3238324333343f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d333339393333" alt="Node.js logo" title="Node.js" height="25" data-canonical-src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&amp;logoColor=339933" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6398a3df3115b35887a2879b30cc2530f98f7267748fdee85812cb7cf5b9d3b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3238324333343f6c6f676f3d65787072657373266c6f676f436f6c6f723d464646464646"><img src="https://camo.githubusercontent.com/6398a3df3115b35887a2879b30cc2530f98f7267748fdee85812cb7cf5b9d3b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3238324333343f6c6f676f3d65787072657373266c6f676f436f6c6f723d464646464646" alt="Express.js logo" title="Express.js" height="25" data-canonical-src="https://img.shields.io/badge/Express-282C34?logo=express&amp;logoColor=FFFFFF" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5071fe8382858455fd4f63d17e25840501535cd05bb2461fb4eabb8c59792a16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3238324333343f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d453130303938"><img src="https://camo.githubusercontent.com/5071fe8382858455fd4f63d17e25840501535cd05bb2461fb4eabb8c59792a16/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3238324333343f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d453130303938" alt="PostgreSQL logo" title="PostgreSQL" height="25" data-canonical-src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&amp;logoColor=E10098" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/72ff61a6ba4108ca3fa773c46b7b1068c81de480cd317cab5d74996deeb0e4ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3238324333343f6c6f676f3d73657175656c697a65266c6f676f436f6c6f723d453130303938"><img src="https://camo.githubusercontent.com/72ff61a6ba4108ca3fa773c46b7b1068c81de480cd317cab5d74996deeb0e4ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3238324333343f6c6f676f3d73657175656c697a65266c6f676f436f6c6f723d453130303938" alt="Sequelize logo" title="Sequelize" height="25" data-canonical-src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&amp;logoColor=E10098" style="max-width: 100%;"></a></p>
+  <h4 align="center">Frontend</h4>
+  <p align="center" dir="auto"><a name="user-content-learning-now"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec8bbeffe915e0a05745990590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3238324333343f6c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236"><img src="https://camo.githubusercontent.com/abcb2d8365dc291062b0a73ef91f79cb6477ceec8bbeffe915e0a05745990590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3238324333343f6c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236" alt="HTML5 logo" title="HTML5" height="25" data-canonical-src="https://img.shields.io/badge/HTML5-282C34?logo=html5&amp;logoColor=E34F26" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/1d372ce1dd004b42242a105c8881a869738e4604097976354aeced3322f93bbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3238324333343f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236"><img src="https://camo.githubusercontent.com/1d372ce1dd004b42242a105c8881a869738e4604097976354aeced3322f93bbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3238324333343f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236" alt="CSS3 logo" title="CSS3" height="25" data-canonical-src="https://img.shields.io/badge/CSS3-282C34?logo=css3&amp;logoColor=1572B6" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d8a38a3da1b8512af061dec74f1d6613a8f3fa39c5f20179103c28196e8a56da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3238324333343f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"><img src="https://camo.githubusercontent.com/d8a38a3da1b8512af061dec74f1d6613a8f3fa39c5f20179103c28196e8a56da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3238324333343f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" alt="React Native logo" title="React" height="25" data-canonical-src="https://img.shields.io/badge/React-282C34?logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8bd00d6b505efba0531823908e2b7c6696402cc11a61e8e721d20e0ce58d749e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265647578285468756e6b2f53616761292d3238324333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243"><img src="https://camo.githubusercontent.com/8bd00d6b505efba0531823908e2b7c6696402cc11a61e8e721d20e0ce58d749e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265647578285468756e6b2f53616761292d3238324333343f6c6f676f3d7265647578266c6f676f436f6c6f723d373634414243" alt="Redux logo" title="Redux" height="25" data-canonical-src="https://img.shields.io/badge/Redux(Thunk/Saga)-282C34?logo=redux&amp;logoColor=764ABC" style="max-width: 100%;"></a>
+</p>
+  <h4 align="center">Others</h4>
+<p align="center" dir="auto"><a name="user-content-learning-now"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332"><img src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332" alt="git logo" title="git" height="25" data-canonical-src="https://img.shields.io/badge/git-282C34?logo=git&amp;logoColor=F05032" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6c4e6ad7370af43f49a0125676d35c8cf8e3af765354a4ec43032cb089b4268d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3238324333343f6c6f676f3d6a657374266c6f676f436f6c6f723d433231333235"><img src="https://camo.githubusercontent.com/6c4e6ad7370af43f49a0125676d35c8cf8e3af765354a4ec43032cb089b4268d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3238324333343f6c6f676f3d6a657374266c6f676f436f6c6f723d433231333235" alt="Jest logo" title="Jest" height="25" data-canonical-src="https://img.shields.io/badge/Jest-282C34?logo=jest&amp;logoColor=C21325" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3ee213c95fc0c7e8e9a1b5edf60e40deff154e0f0e6bb6abcecd623ed35bdaa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d3238324333343f6c6f676f3d617069266c6f676f436f6c6f723d453130303938"><img src="https://camo.githubusercontent.com/3ee213c95fc0c7e8e9a1b5edf60e40deff154e0f0e6bb6abcecd623ed35bdaa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4150492d3238324333343f6c6f676f3d617069266c6f676f436f6c6f723d453130303938" alt="API logo" title="API" height="25" data-canonical-src="https://img.shields.io/badge/API-282C34?logo=api&amp;logoColor=E10098" style="max-width: 100%;"></a>
+</p>
+<h3 align="center">📄 Резюме:</h3>
+  <p align="center">
+    <a name="user-content-cv" href="https://spb.hh.ru/resume/0a2068b2ff09bd8f520039ed1f6343394d4545">
+      <img src="https://camo.githubusercontent.com/a01d5ed7a9531429f0c7b7673cd5347040d92fa5bda863da1d92374a9008965e/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f36342f70617273652d66726f6d2d636c6970626f6172642e706e67">
+    </a>
+  </p>
+<h3 align="center">📞 Контакты:</h3>
+<p align="center" dir="auto">
+  <a name="user-content-telegram" href="https://t.me/eskonovalova">
+  <img src="https://camo.githubusercontent.com/19b33fac7740d862a68b2633007c886688437bf7a2aad11872f1a2ca82745213/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f74656c656772616d2d6170702d2d76332e706e67">
+  </a>
+<a name="user-content-watsapp" href="https://wa.me/79990634779">
+  <img src="https://camo.githubusercontent.com/a4453f3137c84b6912d3772638f18864a1ccad67279f177c60431aa60c8e8c25/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f77686174736170702d2d76362e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" style="max-width: 100%;"></a>
+<a name="user-content-gmail" href="mailto:ekaterina.s.konovalova@gmail.com"> <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67">
+  </a>
+</p>
+<h3 align="center">🐕 Моя собака:</h3>
+<div align="center">
+<img width="50%" height="50%" src="./frida.gif"/>
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
